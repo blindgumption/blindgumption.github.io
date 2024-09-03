@@ -73,4 +73,11 @@ As already mentioned, the static HTML was full of duplicated elements (copy'n'pa
 I wanted a way to not duplicate text and make it easier to manage and extend the platform.
 Here's how I plan to do that. 
 
-###### end of CAPTAINSLOG
+## Step 3: Now for Something Completely Different
+
+Okay, not completely, we're still using Python.
+But I switched from mkdocs to sphinx,
+and I'm using BlindGumption for experimenting.
+
+I'm learning sphincs for the better options it seems to have to generate accessible HTML.
+And, once everything is in place, it's as easy to write markdown for sphinx as it is for mkdocs.
